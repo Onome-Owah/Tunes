@@ -1,0 +1,1264 @@
+@media (min-width:320px) {
+    .navbar-nav{
+        color: rgb(53, 51, 51);
+        text-decoration: none;
+
+    }
+
+
+    a{
+        color: white !important;
+    }
+
+    .arrow-btn{
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 9;
+    }
+
+    .arrow-btn a{
+        height: 39px;
+        width: 37px;
+        text-align: center;
+        background: #343a40;
+        display: block;
+        border-radius: 3px;
+        cursor: pointer;
+        font-size: 23px;
+        opacity: 0.9;
+    }
+
+    .man{
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+    }
+    
+    
+    .organize{
+        display: none;
+    }
+
+    .jazz{
+        padding-top: 30%;
+    }
+    
+    .h11{
+        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .text1{
+        color: rgb(253, 252, 252);
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .bg2{
+        background-color: rgb(58, 57, 57);
+        text-align: center;
+        padding-top: 30px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .Music{
+        font-family: 80px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .songs{
+        color: white;
+        font-size: 25px;
+        
+    }
+    
+    .stream{
+        color: white;
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+
+    
+    
+    .trial{
+        height: 60px;
+        width: 60%;
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-style: none;
+        background-color: red;
+    
+    }
+    
+    .tab{
+        width: 80%;
+        
+    }
+    
+    .orange{
+        color: white;
+        font-size: 13px;
+        padding-top: 5%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+    .movie{
+        font-size: 30px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+        font-weight:800;
+    }
+    
+    .text22{
+        color: rgb(2, 2, 2);
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+    }
+    
+    .read{
+        background-color: rgb(60, 60, 97);
+        color: white;
+        width: 30%;
+        height: 60px;
+        margin-left: 7rem;
+    }
+    
+    .gita{
+        width: 100%;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    
+    .bg3{
+        background-image: url(./img/section-bg-itunes.jpeg); 
+        background-size: 100% 100%;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .world{
+        font-size: 30px;
+        padding-bottom: 10%;
+    }
+    
+
+    
+    .text2{
+        color: rgb(248, 247, 247);
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 20%;
+        padding-bottom: 20%;
+    }
+    
+    
+    
+    .gift{
+        width: 100%;
+        
+    }
+    
+    .gc{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 14px;
+        line-height: 1.6;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+    .cut{
+        display: none;
+    }
+    
+    .container{
+        background-color: rgb(44, 41, 41);
+        padding: 20px 0;
+        display: none;
+    }
+    
+    
+    .foot{
+        background-color: rgb(44, 41, 41);
+        max-width: 1170px;
+        margin: auto;
+    
+    }
+    
+    .footer1{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
+    
+    ul{
+        list-style: none;
+    }
+    
+    
+    .footer-column{
+        width: 20%;
+        padding: 0 15px;
+        color: white;
+    }
+    
+    .heading::before{
+        content: ' ';
+        position: absolute;
+        left: 0;
+        bottom: -10px;
+        background-color: white;
+        height: 2px;
+        box-sizing: border-box;
+        width: 50px;
+    }
+    
+    .footer-column ul li{
+        margin-bottom: 10px;
+    }
+    
+    .footer-column ul li a{
+        font-size: 13px;
+        text-transform: capitalize;
+        color: white;
+        text-decoration: none;
+        font-weight: 300;
+        color: rgb(179, 166, 166);
+        display: block;
+    }
+    
+    .footer-column ul li a:hover{
+        color: rgb(78, 77, 77);
+        padding-left: 10px;
+    }
+    
+    
+    .end{
+        background-color: rgb(31, 30, 30);
+        color: white;
+        text-align: center;
+        padding: 5px;
+    }
+
+}
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:375px) {
+    navbar-nav{
+        color: rgb(53, 51, 51);
+        text-decoration: none;
+
+    }
+
+    a{
+        color: white !important;
+    }
+
+    .arrow-btn{
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 9;
+    }
+
+    .arrow-btn a{
+        height: 39px;
+        width: 37px;
+        text-align: center;
+        background: #343a40;
+        display: block;
+        border-radius: 3px;
+        cursor: pointer;
+        font-size: 23px;
+        opacity: 0.9;
+    }
+
+    .man{
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+    }
+    
+    
+    .organize{
+        display: none;
+    }
+
+    .jazz{
+        padding-top: 30%;
+    }
+    
+    .h11{
+        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .text1{
+        color: rgb(253, 252, 252);
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .bg2{
+        background-color: rgb(58, 57, 57);
+        text-align: center;
+        padding-top: 30px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .Music{
+        font-family: 80px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .songs{
+        color: white;
+        font-size: 25px;
+        
+    }
+    
+    .stream{
+        color: white;
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+
+    
+    
+    .trial{
+        height: 60px;
+        width: 60%;
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-style: none;
+        background-color: red;
+    
+    }
+    
+    .tab{
+        width: 80%;
+        
+    }
+    
+    .orange{
+        color: white;
+        font-size: 13px;
+        padding-top: 5%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+    .movie{
+        font-size: 30px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+        font-weight:800;
+    }
+    
+    .text22{
+        color: rgb(2, 2, 2);
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+    }
+    
+    .read{
+        background-color: rgb(60, 60, 97);
+        color: white;
+        width: 30%;
+        height: 60px;
+        margin-left: 8rem;
+    }
+    
+    .gita{
+        width: 100%;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    
+    .bg3{
+        background-image: url(./img/section-bg-itunes.jpeg); 
+        background-size: 100% 100%;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .world{
+        font-size: 30px;
+        padding-bottom: 10%;
+    }
+    
+
+    
+    .text2{
+        color: rgb(248, 247, 247);
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 20%;
+        padding-bottom: 20%;
+    }
+    
+    
+    
+    .gift{
+        width: 80%;
+        margin-left: 8%;
+        
+    }
+    
+    .gc{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 14px;
+        line-height: 1.6;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+    .cut{
+        display: none;
+    }
+    
+    .container{
+        background-color: rgb(44, 41, 41);
+        padding: 20px 0;
+        display: none;
+    }
+    
+    
+    .foot{
+        background-color: rgb(44, 41, 41);
+        max-width: 1170px;
+        margin: auto;
+    
+    }
+    
+    .footer1{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
+    
+    ul{
+        list-style: none;
+    }
+    
+    
+    .footer-column{
+        width: 20%;
+        padding: 0 15px;
+        color: white;
+    }
+    
+    .heading::before{
+        content: ' ';
+        position: absolute;
+        left: 0;
+        bottom: -10px;
+        background-color: white;
+        height: 2px;
+        box-sizing: border-box;
+        width: 50px;
+    }
+    
+    .footer-column ul li{
+        margin-bottom: 10px;
+    }
+    
+    .footer-column ul li a{
+        font-size: 13px;
+        text-transform: capitalize;
+        color: white;
+        text-decoration: none;
+        font-weight: 300;
+        color: rgb(179, 166, 166);
+        display: block;
+    }
+    
+    .footer-column ul li a:hover{
+        color: rgb(78, 77, 77);
+        padding-left: 10px;
+    }
+    
+    
+    .end{
+        background-color: rgb(31, 30, 30);
+        color: white;
+        text-align: center;
+        /* height: 60px; */
+        padding: 5px;
+    }
+}
+
+
+
+
+
+@media (min-width:425px) {
+    .navbar-nav{
+        color: rgb(53, 51, 51);
+        text-decoration: none;
+
+    }
+
+
+    a{
+        color: white !important;
+    }
+
+    .arrow-btn{
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 9;
+    }
+
+    .arrow-btn a{
+        height: 39px;
+        width: 37px;
+        text-align: center;
+        background: #343a40;
+        display: block;
+        border-radius: 3px;
+        cursor: pointer;
+        font-size: 23px;
+        opacity: 0.9;
+    }
+
+    .man{
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+    }
+    
+    
+    .organize{
+        display: none;
+    }
+
+    .jazz{
+        padding-top: 30%;
+    }
+    
+    .h11{
+        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .text1{
+        color: rgb(253, 252, 252);
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .bg2{
+        background-color: rgb(58, 57, 57);
+        text-align: center;
+        padding-top: 30px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .Music{
+        font-family: 80px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .songs{
+        color: white;
+        font-size: 25px;
+        
+    }
+    
+    .stream{
+        color: white;
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+
+    
+    
+    .trial{
+        /* background-color: rgb(167, 30, 30); */
+        height: 60px;
+        width: 60%;
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-style: none;
+        background-color: red;
+    
+    }
+    
+    .tab{
+        width: 80%;
+        
+    }
+    
+    .orange{
+        color: white;
+        font-size: 13px;
+        padding-top: 5%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+    .movie{
+        font-size: 30px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+        font-weight:800;
+    }
+    
+    .text22{
+        color: rgb(2, 2, 2);
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+    }
+    
+    .read{
+        background-color: rgb(60, 60, 97);
+        color: white;
+        width: 30%;
+        height: 60px;
+        margin-left: 10rem;
+    }
+    
+    .gita{
+        width: 100%;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    
+    .bg3{
+        background-image: url(./img/section-bg-itunes.jpeg); 
+        background-size: 100% 100%;
+        width: 100%;
+        height: 100%;
+        /* background-color: crimson; */
+    }
+    
+    .world{
+        font-size: 30px;
+        padding-bottom: 10%;
+    }
+    
+
+    
+    .text2{
+        color: rgb(248, 247, 247);
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 20%;
+        padding-bottom: 20%;
+    }
+    
+    
+    
+    .gift{
+        width: 80%;
+        margin-left: 8%;
+        
+    }
+    
+    .gc{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 14px;
+        line-height: 1.6;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+    .cut{
+        display: none;
+    }
+    
+    .container{
+        background-color: rgb(44, 41, 41);
+        padding: 20px 0;
+        display: none;
+    }
+    
+    
+    .foot{
+        background-color: rgb(44, 41, 41);
+        max-width: 1170px;
+        margin: auto;
+    
+    }
+    
+    .footer1{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
+    
+    ul{
+        list-style: none;
+    }
+    
+    
+    .footer-column{
+        width: 20%;
+        padding: 0 15px;
+        color: white;
+    }
+    
+    .heading::before{
+        content: ' ';
+        position: absolute;
+        left: 0;
+        bottom: -10px;
+        background-color: white;
+        height: 2px;
+        box-sizing: border-box;
+        width: 50px;
+    }
+    
+    .footer-column ul li{
+        margin-bottom: 10px;
+    }
+    
+    .footer-column ul li a{
+        font-size: 13px;
+        text-transform: capitalize;
+        color: white;
+        text-decoration: none;
+        font-weight: 300;
+        color: rgb(179, 166, 166);
+        display: block;
+    }
+    
+    .footer-column ul li a:hover{
+        color: rgb(78, 77, 77);
+        padding-left: 10px;
+    }
+    
+    
+    .end{
+        background-color: rgb(31, 30, 30);
+        color: white;
+        text-align: center;
+        /* height: 60px; */
+        padding: 5px;
+    }
+}
+
+
+
+
+
+
+@media (min-width:768px) {
+    .navbar-nav{
+        color: rgb(53, 51, 51);
+        text-decoration: none;
+
+    }
+
+    
+
+
+    .man{
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 700px;
+    }
+    
+    
+    .organize{
+        display: block;
+    }
+
+    .jazz{
+        padding-top: 30%;
+    }
+    
+    .h11{
+        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .text1{
+        color: rgb(253, 252, 252);
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 10%;
+    }
+    
+    .bg2{
+        background-color: rgb(58, 57, 57);
+        text-align: center;
+        padding-top: 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .Music{
+        font-family: 80px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-bottom: 5%;
+        padding-top: 5%;
+    }
+    
+    .songs{
+        color: white;
+        font-size: 25px;
+        padding-bottom: 5%;
+        
+    }
+    
+    .stream{
+        color: white;
+        text-align: center;
+    }
+
+
+    .lib{
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-bottom: 5%;
+    }
+    
+    .trial{
+        width: 25%;
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-style: none;
+        background-color: red;
+        
+    
+    }
+    
+    .tab{
+        width: 80%;
+        padding-bottom: 5%;
+        
+    }
+    
+    .orange{
+        color: white;
+        font-size: 13px;
+        padding-top: 5%;
+    }
+    
+    .radio{
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-bottom: 5%;
+    }
+    .movie{
+        font-size: 30px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    
+    .text22{
+        color: rgb(2, 2, 2);
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+    }
+    
+    .read{
+        background-color: rgb(60, 60, 97);
+        color: white;
+        width: 15%;
+        height: 60px;
+        margin-left: 40%;
+    }
+    
+    .gita{
+        padding-left: 10%;
+        padding-right: 10%;
+        width: 100%;
+    }
+
+    
+    .bg3{
+        background-image: url(./img/section-bg-itunes.jpeg); 
+        background-size: 100% 100%;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .world{
+        font-size: 30px;
+    
+    }
+    
+    
+    
+    .text2{
+        color: rgb(248, 247, 247);
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 20%;
+        padding-bottom: 20%;
+    }
+    
+    
+
+    .cards{
+        padding-top: 5%;
+        display: flex;
+    }
+    
+    .gc{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 14px;
+        line-height: 1.6;
+        padding-left: 10%;
+    }
+    
+    .cut{
+        display: none;
+    }
+    
+    .container{
+        background-color: rgb(44, 41, 41);
+        padding: 20px 0;
+        display: block;
+        max-width: 100%;
+    }
+    
+    
+    .foot{
+        background-color: rgb(44, 41, 41);
+        max-width: 1170px;
+        margin: auto;
+    
+    }
+    
+    .footer1{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
+    
+    ul{
+        list-style: none;
+    }
+    
+    
+    .footer-column{
+        width: 25%;
+        color: white;
+    }
+    
+    .heading::before{
+        content: ' ';
+        position: absolute;
+        left: 0;
+        bottom: -10px;
+        background-color: white;
+        height: 2px;
+        box-sizing: border-box;
+        width: 50px;
+    }
+    
+    .footer-column ul li{
+        margin-bottom: 10px;
+    }
+    
+    .footer-column ul li a{
+        font-size: 13px;
+        text-transform: capitalize;
+        color: white;
+        text-decoration: none;
+        font-weight: 300;
+        color: rgb(179, 166, 166);
+        display: block;
+    }
+    
+    .footer-column ul li a:hover{
+        color: rgb(78, 77, 77);
+        padding-left: 10px;
+    }
+    
+    
+    .end{
+        background-color: rgb(31, 30, 30);
+        color: white;
+        text-align: center;
+        padding: 5px;
+    }
+
+    
+}
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+@media (min-width:1440px) {
+
+
+
+a{
+    color: white !important;
+}
+
+.navbar{
+    color: black;
+}
+
+
+.h11{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text1{
+    color: rgb(253, 252, 252);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bg2{
+    background-color: rgb(58, 57, 57);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Music{
+    font-family: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.songs{
+    color: white;
+    font-size: 25px;
+    
+}
+
+.stream{
+    color: white;
+    text-align: center;
+}
+
+.trial{
+    background-color: rgb(167, 30, 30);
+    height: 60px;
+    width: 15%;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: none;
+
+}
+
+.tab{
+    width: 80%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+   
+
+}
+
+.orange{
+    color: white;
+    font-size: 13px;
+    width: 60%;
+    margin: auto;
+    padding: 0;
+    padding-top: 1%;
+}
+
+.movie{
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    line-height: 2.5rem;
+}
+
+.trem{
+    line-height: 1.5rem;
+}
+.text22{
+    color: rgb(2, 2, 2);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8%;
+    
+}
+
+.read{
+    background-color: rgb(60, 60, 97);
+    color: white;
+    width: 10%;
+    margin-left: 45%;
+   
+}
+
+.gita{
+    
+    width: 100%;
+}
+
+.bg3{
+    background-image: url(./img/section-bg-itunes.jpeg); 
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.world{
+    font-size: 40px;
+}
+
+
+.text2{
+    color: rgb(248, 247, 247);
+    text-align: center;
+}
+
+
+.cut{
+    display: block;
+}
+
+
+.gift{
+    width: 90%;
+    
+    
+}
+
+.gc{
+    margin-right: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+
+.container{
+    background-color: rgb(44, 41, 41);
+    padding: 20px 0;
+}
+
+
+.foot{
+    background-color: rgb(44, 41, 41);
+    max-width: 1170px;
+    margin: auto;
+
+}
+
+.footer1{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.footer-column{
+    width: 25%;
+    padding: 0 15px;
+    color: white;
+}
+
+.heading::before{
+    content: ' ';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    background-color: white;
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+}
+
+.footer-column ul li{
+    margin-bottom: 10px;
+}
+
+.footer-column ul li a{
+    font-size: 13px;
+    text-transform: capitalize;
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
+    color: rgb(179, 166, 166);
+    display: block;
+}
+
+.footer-column ul li a:hover{
+    color: rgb(78, 77, 77);
+    padding-left: 10px;
+}
+
+
+.end{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    text-align: center;
+    /* height: 60px; */
+    padding: 5px;
+}
+
+}
